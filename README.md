@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Lion Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A Minha ideia de gerar um projeto de IA Generativa é utilizar os recursos de geração de imagens para desenvolver uma imagem mais realista possível.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizado o criador de imagems do Microsoft Designer. https://designer.microsoft.com
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Acessei a plataforma Microsoft Designer no link https://designer.microsoft.com, e efetuei a descrição "preciso que crie com ia a imagem do leão mais voraz possível com o máximo de realismo possível."
+em seguida o sistema efetuou a criação de uma imagem por IA mais realista possível.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![document](https://github.com/user-attachments/assets/5caf79ca-d08e-45f6-b86d-e0220fccc21e)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
